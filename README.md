@@ -26,8 +26,6 @@ Project is created with:
 <img width="400" alt="image" src="https://user-images.githubusercontent.com/88301319/194028425-c605c1bc-0bb1-4404-a122-276a84e9797e.png" align='left' >
 <img width="400" alt="image" src="https://user-images.githubusercontent.com/88301319/194028581-7c485d07-c049-4824-a6ee-f1d2411c979e.png" >
 
-<br /> <br />
-
 ## Acknowledgements
 * This app is based on Java Snake Game tutorial from Bro Code.
 * Youtube: <https://www.youtube.com/watch?v=bI6e6qjJ8JQ&list=PLnPm91GDZz1qIBMqpedwLHiBTnJo9YhzD&index=4&t=34s&ab_channel=BroCode>
